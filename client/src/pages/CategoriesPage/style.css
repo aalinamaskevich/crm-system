@@ -1,0 +1,6 @@
+.background-div{
+    height: calc(100vh - 56px);
+    width: 100vw;
+    background-position: bottom 50px left 50%;
+    background-repeat: no-repeat;
+}

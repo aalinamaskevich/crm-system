@@ -1,0 +1,8 @@
+.splitter-horizontal{
+    height: 2px;
+}
+
+.splitter-vertical{
+    width: 2px;
+    height: 100%;
+}
